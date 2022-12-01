@@ -30,10 +30,12 @@ body {
     display: inline-block;
     width: 1250px;
     height: 200px;
+    max-width: 1250px;
     background-color: var(--padrao);
     border-radius: 0px 0px 15px 15px;
     margin-bottom: 10px;
     position: relative;
+    
 }
 
 
