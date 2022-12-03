@@ -16,26 +16,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 .nome {
     font-family: var(--nome);
-    font-size: 4.5rem;
+    font-size:4.5rem;
     color: white;
     padding-top: 50px;
     text-align: center;
+    position: relative;
     
 }
 .box-top {
-    display: inline-block;
-    width: 1250px;
-    height: 200px;
-    max-width: 1250px;
+    display:inline-block;
+    width: 95vw;
+    height: 35vh;
     background-color: var(--padrao);
-    border-radius: 0px 0px 15px 15px;
+    border-radius: 0px 0px 35px 35px;
     margin-bottom: 10px;
-    position: relative;
-    
 }
 
 
@@ -59,7 +58,7 @@ main {
         background-color: var(--padrao);
         height: 10vh;
         width: 80vw;
-        padding:30px;
+        padding: 30px;
         margin: 10px;
         border-radius: 10px;
         color: white;
