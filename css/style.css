@@ -8,10 +8,11 @@
 }
 
 body { 
-    background-color: rgba(229, 229, 250, 0.83)
+    background-color: rgba(229, 229, 250, 0.55)
     /*background-color: #bfb6c7*/
     /*background: -webkit-gradient(linear, left bottom, left top, from(#e5ddeb), to(#1a75ff)) fixed;*/
 }
+
 
 .center {
     max-width: 500px;
@@ -84,7 +85,7 @@ section.box1 {
         position: relative;
         border-radius: 7px;
         border:2px solid white;
-        box-shadow: 5px 10px #d4d4aa;
+        box-shadow: 5px 10px rgba(180, 131, 149, 0.83);
         padding: 40px;
         margin: 17px 40px;
         transition: 0.3s;
