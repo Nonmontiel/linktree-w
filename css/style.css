@@ -43,9 +43,12 @@ section.box1 {
     vertical-align: middle;
 }
 .img-logo:hover{
-    border-color: pink;
+    border-color:  #4a3160;
 }
 
+p {
+    font-size: large;
+}
 .img-logo{
     border:2px solid white;
     border-radius: 50%;
